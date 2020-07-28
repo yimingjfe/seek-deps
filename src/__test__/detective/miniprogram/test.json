@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTitleText": "商品管理",
+  "usingComponents": {
+    "w-action-sheet": "/components/w-action-sheet/index",
+    "w-popup": "/components/w-popup/index",
+    "login-dialog": "/components/loginDialog/index"
+  }
+}
