@@ -15,7 +15,7 @@
 命令行模式下，不会解析node_modules下面的依赖
 
 ```
-npm install @vdian/seek-deps
+npm install seek-deps -g
 cd my-project
 sdep
 ```

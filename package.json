@@ -11,7 +11,7 @@
   "bin": {
     "sdep": "./bin/index.js"
   },
-  "keywords": [],
+  "keywords": ["dependency", "微信小程序", "vue", "node"],
   "author": "",
   "license": "ISC",
   "husky": {
