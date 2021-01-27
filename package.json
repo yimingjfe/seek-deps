@@ -1,6 +1,6 @@
 {
   "name": "seek-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
@@ -11,7 +11,12 @@
   "bin": {
     "sdep": "./bin/index.js"
   },
-  "keywords": ["dependency", "微信小程序", "vue", "node"],
+  "keywords": [
+    "dependency",
+    "微信小程序",
+    "vue",
+    "node"
+  ],
   "author": "",
   "license": "ISC",
   "husky": {
