@@ -2,8 +2,8 @@
 
 ## 特点
 
-- 支持微信小程序的依赖可视化
-- 支持webpack配置
+- 支持微信小程序的依赖可视化(支持wxml,wxss,wxs,json,js,ts,less,sass,vue等拓展名的文件)
+- 支持webpack resolve
 - 支持正向或逆向地查看依赖
 - 支持定制依赖结果展示的渲染层
 - 支持定制查询依赖的规则
