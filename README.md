@@ -24,6 +24,7 @@ sdep
 
 ```
 // example.ts
+// 小程序的entry需要是app.json
 import { seek } from 'seek-deps'
 seek({
   entry:
