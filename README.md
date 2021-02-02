@@ -74,6 +74,11 @@ seek({
 ### weui(微信官方组件库)
 
 ![image](https://s3.ax1x.com/2021/02/02/yuLeKK.png)
+
+### vant calendar组件
+
+![image](https://s3.ax1x.com/2021/02/03/yujcsP.png)
+
 ## 查找不到模块的情况
 
 以下情况seek-deps会找不到相应的模块，不会继续向下寻找依赖，但会把这个文件加入到依赖中，并且在控制台用红色打印出相应模块信息。
